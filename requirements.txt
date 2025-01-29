@@ -11,3 +11,5 @@ gtts
 requests
 matplotlib
 numpy
+folium
+google-generativeai
