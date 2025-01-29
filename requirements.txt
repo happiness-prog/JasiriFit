@@ -13,3 +13,4 @@ matplotlib
 numpy
 folium
 google-generativeai
+streamlit-folium
