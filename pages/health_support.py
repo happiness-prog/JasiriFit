@@ -20,7 +20,7 @@ from gtts import gTTS
 from dateutil.relativedelta import relativedelta
 from datetime import datetime, timedelta
 from streamlit_option_menu import option_menu
-from streamlit_lottie import st_lottie
+
 from streamlit_chat import message
 
 
