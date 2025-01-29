@@ -1,9 +1,7 @@
 pandas
 streamlit
 python-dotenv
-genai
 streamlit_option_menu 
-streamlit_lottie
 streamlit_chat
 africastalking
 openai
@@ -11,3 +9,6 @@ seaborn
 pyttsx3
 gtts
 requests
+json
+matplotlib
+numpy
