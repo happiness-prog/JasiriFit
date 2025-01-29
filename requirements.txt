@@ -9,6 +9,5 @@ seaborn
 pyttsx3
 gtts
 requests
-json
 matplotlib
 numpy
